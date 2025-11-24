@@ -28,6 +28,7 @@ Smooth mouth transitions for lifelike expressions 🫦
 -----------------------------------------------------------------------------------------------------------------
 
 ---[🧰 Supplies Used]---
+
 =[Hardware]=
 
 1. Arduino UNO (R3 or compatible) 🛠️
@@ -41,6 +42,7 @@ Smooth mouth transitions for lifelike expressions 🫦
 5. USB cable (Arduino ↔ PC)
 
 6. Optional: Breadboard 🟫
+
 
 =[Software]=
 
