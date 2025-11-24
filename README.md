@@ -1,11 +1,13 @@
 # PikoFace-LCD-Facial-Animation-
-
-  ____  _ _        _____              ______               
- |  __|| | |      |  __ \            |  ____|              
- | |__)| | | ___  | |__) | __ ___  __| |__ ___  ___  _ __  
- |  ___| | |/ _ \ |  ___/ '__/ _ \/ _`  __/ _ \/ _ \| '_ \ 
- | |    | | |  __/ | |   | | |  __/ (_| | |  __/ (_) | | | |
- |_|    |_|_|\___| |_|   |_|  \___|\__,_|  \___|\___/|_| |_|
+'''           
+  _____ _ _         ______             
+ |  __ (_) |       |  ____|            
+ | |__) || | _____ | |__ __ _  ___ ___ 
+ |  ___/ | |/ / _ \|  __/ _` |/ __/ _ \
+ | |   | |   < (_) | | | (_| | (_|  __/
+ |_|   |_|_|\_\___/|_|  \__,_|\___\___|
+                                                                                                                                                    
+ '''
 
       😄  PikoFace – Your Cute LCD Companion 😄
 
@@ -60,7 +62,7 @@ Smooth mouth transitions for lifelike expressions 🫦
 
 ---[✨ Credits]---
 
-Created by Rupesh Kumar (RK).
+Created by RK Studios aka (RK).
 Python + Arduino integration and animation logic designed by RK. 💻❤️
 
 ---[📜 License]---
