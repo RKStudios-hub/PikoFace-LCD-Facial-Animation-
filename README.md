@@ -1,12 +1,7 @@
 # PikoFace-LCD-Facial-Animation-
-'''           
-| || | | | __ \ | ____|
-| |)| | | ___ | |) | __ ___ | | ___ ___ _ __
-| | | |/ _ \ | / '/ _ / ` / _ / _ | ' \
-| | | | | __/ | | | | | __/ (| | | __/ () | | | |
-|| ||_|_| || || _|_,| _|_/|| ||
-                                                                                                                                                    
- '''
+
+ <img width="341" height="160" alt="ascii-art-text" src="https://github.com/user-attachments/assets/80e00e3c-82bd-47be-899c-75ebedc1d203" />
+
 
       😄  PikoFace – Your Cute LCD Companion 😄
 
